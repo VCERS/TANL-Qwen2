@@ -15,7 +15,7 @@ FLAGS = flags.FLAGS
 def add_options():
   flags.DEFINE_string('input_dir', default = None, help = 'path to directory containing pdfs')
   flags.DEFINE_string('output_dir', default = 'output', help = 'path to output directory')
-  flags.DEFINE_enum('model', defalut = 'qwen2', enum_values = {'llama3', 'qwen2'}, help = 'model options')
+  flags.DEFINE_enum('model', default = 'qwen2', enum_values = {'llama3', 'qwen2'}, help = 'model options')
 
 def main(unused_argv):
   if exists(FLAGS.output_dir): rmtree(FLAGS.output_dir)
