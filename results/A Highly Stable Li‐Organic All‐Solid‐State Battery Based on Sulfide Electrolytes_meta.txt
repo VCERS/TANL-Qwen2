@@ -1,0 +1,15 @@
+Commercial 5,7,12,14-pentacenetetrone | Material | Nonrecipe-Material | Brand-of = TCI | Brand | Recipe-target = used | Operation = as received | Recipe-precursor = for | Apparatus-of = Active materials.
+
+Li7P3S11(LPS) glass ceramic | Material | Synthesis-apparatus = Solid-state route | Coref-of = synthesized | Brand-of = elsewhere | Brand | Recipe-target = used | Operation = in | Apparatus-of = this work.
+
+Sulfide (Li2S) | Material | Recipe-precursor = weighted | Operation = and | | = Operation | Recipe-precursor = ground | Operation = together.
+
+2 g | Number | Number-of = powder | Amount-of = loaded | Operation = into | Apparatus-of = ZrO2 ball-mill jar | Synthesis-apparatus = with | Amount-of = 40 g | Amount-of = 5 mm diameter ZrO2 balls.
+
+ZrO2ball-mill jar | Synthesis-apparatus | Loaded = powder | Operation = and | | = Operation | Loaded = 40 g | Amount-of = 5 mm diameter ZrO2 balls.
+
+Planetary Micro Mill (Pulverisette 7, Fritsch) | Synthesis-apparatus | Milled = powder | Operation = for | Number = 30 h | Condition-Unit = rpm = 400 | Operation = (10 min of milling followed by 5 min breaks to dissipate heat).
+
+Resulting powder | Material | Annealed = at | Condition-of = 210 °C | Condition-Unit = for | Number = 3 h | Condition-of = and | | = Condition-of | Annealed = at | Condition-of = 250 °C | Condition-Unit = for | Number = 1 h | Condition-of = with | Condition-of = heating rate = 1 °C min−1 | Condition-of = and | | = Condition-of | Cooled = to | Condition-of = room temperature | Condition-type = naturally.
+
+All the above experiments | Operation = carried out | Condition-of = under | Condition-of = Ar atmosphere.

@@ -3,7 +3,7 @@
 from langchain_core.prompts.prompt import PromptTemplate
 
 def label_tanl_template(tokenizer):
-  system_message = """please label entities (Material, Number, Operation, Amount-Unit, Condition-Unit, Material-Descriptor, Condition-Misc, Synthesis-Apparatus, Nonrecipe-Material, Brand) and relations (Recipe-target, Solvent-material, Atmospheric-material, Recipe-precursor, Participant-material, Apparatus-of, Condition-of, Descriptor-of, Number-of, Amount-of, Apparatus-attr-of, Brand-of, Coref-of, Next-operation) of the text as following examples.
+  system_message = """please label entities (Material, Number, Operation, Amount-Unit, Condition-Unit, Material-Descriptor, Condition-Misc, Synthesis-Apparatus, Nonrecipe-Material, Brand) and relations (Recipe-target, Solvent-material, Atmospheric-material, Recipe-precursor, Participant-material, Apparatus-of, Condition-of, Descriptor-of, Number-of, Amount-of, Apparatus-attr-of, Brand-of, Coref-of, Next-operation) of the text as following examples. do not modify the original text, just add marks to the original text.
 
 examples:
 
